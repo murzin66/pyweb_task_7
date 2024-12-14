@@ -19,7 +19,7 @@
 
 Для развертывания необходимо склонировать репозиторий командой 
 ```
-https://github.com/murzin66/pyweb_task_7.git
+git clone https://github.com/murzin66/pyweb_task_7.git
 ```
 
 Далее необходимо перейти в директорию с Dockerfile и собрать образ командой 
